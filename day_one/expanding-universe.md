@@ -53,3 +53,7 @@ where:
 - $ d $ is the distance to the galaxy.
 
 This groundbreaking discovery led to the understanding that the universe is expanding, providing strong evidence for the Big Bang theory and fundamentally altering our conception of the cosmos.
+
+```{figure} https://c02.purpledshub.com/uploads/sites/48/2022/03/universe-expansion-3c06d8c.jpg?w=1880&webp=1
+The expanding universe. Credit: BBC.
+```
