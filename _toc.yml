@@ -11,10 +11,10 @@ parts:
   - file: day_one/debate-resolution.md
   - file: day_one/cosmic-ladder.md
   - file: day_one/expanding-universe.md
-- caption: Day 2
-  chapters:
-  - file: day_two/sdss-galaxies.md
-  - file: day_two/galaxy_sizes.ipynb
+#- caption: Day 2
+#  chapters:
+#  - file: day_two/sdss-galaxies.md
+#  - file: day_two/galaxy_sizes.ipynb
 - caption: Reference
   chapters:
   - file: reference/intro_to_colab_notebooks.ipynb
