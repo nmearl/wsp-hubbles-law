@@ -1,4 +1,4 @@
-# Exploring Galaxies with the Sloan Digital Sky Survey
+# Selecting Galaxies from the Sloan Digital Sky Survey
 
 ## Introduction to the Sloan Digital Sky Survey (SDSS)
 
@@ -12,3 +12,12 @@ To get hands-on experience with this data, you'll start by exploring the SDSS Sk
 
 You will use the SkyServer Navigator to explore the SDSS data and select a set of 10 galaxies for further analysis. Begin by familiarizing yourself with the interface and tools available. Once you've selected your 10 galaxies, you will be able to analyze their properties and perform measurements such as determining their distances.
 
+### Primer on Galaxy Selection
+
+```{figure} ./sdss-nav.png
+Example selection of a galaxy in the SDSS Navigator.
+```
+
+1. After you've open the SDSS Navigator, the first step is to ensure the "Objects with spectra" checkbox is marked under the "Drawing Options". This will highlight objects with available spectroscopic data. You should select only those galaxies that show the red box around them, indicating that they have spectra.
+2. When selecting an object, its related information will appear in the panel on the right side. Ensure that the object is of type "GALAXY" -- we don't want to accidentally measure stars!
+3. Once you've selected a galaxy, open the shared Google Doc [here](https://docs.google.com/spreadsheets/d/1mVRovTF8C1UJkQakQG_E9emnpJIRb1rdNx6UPNcm3rs/edit?usp=sharing) and add your name, the SDSS ID, RA, and Dec of the galaxy to the table. This will help you keep track of your selections and provide a reference for your analysis.

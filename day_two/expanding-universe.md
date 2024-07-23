@@ -4,9 +4,33 @@ In the late 1920s, Edwin Hubble made a revolutionary discovery that fundamentall
 
 As we've learned, a key aspect of Hubble's work was the ability to measure distances to distant galaxies. This involved using Cepheid variable stars, whose pulsation period is directly related to their absolute luminosity through the period-luminosity relation. This method allowed astronomers to accurately gauge distances to galaxies, enabling them to compare these distances to the velocities of the galaxies.
 
+## What is Spectroscopy?
+
+Spectroscopy is a powerful technique in astronomy used to study the properties of distant celestial objects. By analyzing the light emitted or absorbed by these objects, astronomers can gain valuable information about their composition, temperature, motion, and more. In this portion, we'll explore the basics of spectroscopic observations, differentiate between absorption and emission lines, and introduce the concept of galactic redshift and its connection to the Hubble parameter and the expansion of the universe.
+
+### Absorption and Emission Lines
+
+When we look at the light from stars, galaxies, or other astronomical objects, we often see a spectrum—a range of colors produced by dispersing light through a prism or diffraction grating. Spectra can be continuous, showing a seamless gradient of colors, or they can feature lines at specific wavelengths. These lines are classified into two main types: absorption lines and emission lines.
+
+#### Absorption Lines
+
+Absorption lines occur when light from a hot, dense source passes through a cooler, less dense medium, such as a gas cloud. The atoms or molecules in the cooler medium absorb specific wavelengths of light, leaving dark lines in the spectrum at those wavelengths. Each type of atom or molecule absorbs light at characteristic wavelengths, which allows astronomers to identify the elements present in the intervening medium.
+
+For example, if light from a star passes through a cloud of hydrogen gas, the hydrogen atoms will absorb light at specific wavelengths corresponding to the hydrogen absorption lines. By studying these lines, astronomers can determine the composition of the gas cloud.
+
+#### Emission Lines
+
+Emission lines are produced when atoms or molecules in a hot, less dense gas emit light at specific wavelengths. This happens when electrons in the atoms are excited to higher energy levels and then fall back to lower levels, releasing energy in the form of light. Each type of atom or molecule emits light at characteristic wavelengths, creating bright lines in the spectrum.
+
+For example, a hot gas cloud composed of hydrogen will emit light at specific wavelengths corresponding to the hydrogen emission lines. By analyzing these lines, astronomers can learn about the physical conditions and composition of the emitting gas.
+
+## Galactic Redshift and the Expansion of the Universe
+
+One of the most profound discoveries in astronomy is that the universe is expanding. This was first observed by Edwin Hubble in the 1920s when he noticed that the light from distant galaxies was redshifted. Redshift is a phenomenon where the wavelengths of light are stretched, making them appear redder than they actually are.
+
 ## Redshift and Its Role in Measuring Velocity
 
-To understand the expansion of the universe, it is essential to measure the velocity at which galaxies are moving away from us. This is where the concept of redshift comes into play.
+Redshift occurs due to the Doppler effect, which is the change in wavelength or frequency of a wave in relation to an observer moving relative to the wave source. In the context of galaxies, redshift happens because the galaxies are moving away from us as the universe expands. The faster a galaxy is moving away, the more its light is redshifted.
 
 ````{admonition} Redshift
 :class: important
@@ -53,6 +77,8 @@ where:
 - $ d $ is the distance to the galaxy.
 
 This groundbreaking discovery led to the understanding that the universe is expanding, providing strong evidence for the Big Bang theory and fundamentally altering our conception of the cosmos.
+
+By measuring the redshift of many galaxies and determining their distances (using standard candles like Cepheid variables or Type Ia supernovae), astronomers can calculate the Hubble parameter. This value gives us insight into the age, size, and fate of the universe.
 
 ```{figure} https://c02.purpledshub.com/uploads/sites/48/2022/03/universe-expansion-3c06d8c.jpg?w=1880&webp=1
 The expanding universe. Credit: BBC.
