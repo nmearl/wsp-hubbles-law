@@ -8,19 +8,17 @@
 Credit: NASA and STScI
 ```
 
-### Introduction to Measuring the Expansion Rate of the Universe
-
 Welcome to an exciting journey through the cosmos! In this project, you will engage in a hands-on exploration of the universe's expansion, a fundamental concept in cosmology. By measuring the distances to galaxies and deriving their radial velocities from their spectra, you will calculate the expansion rate of the universe using Hubble's law. This project not only involves sophisticated scientific techniques but also offers profound insights into the nature of scientific inquiry and the importance of evaluating your results.
 
-### The Cosmic Adventure
+## The Cosmic Adventure
 
 The universe is vast, dynamic, and ever-expanding. One of the most groundbreaking discoveries in modern astronomy is that galaxies are moving away from us, and the universe is expanding. This observation led to the formulation of Hubble's law, which quantifies this expansion. By understanding the relationship between a galaxy's distance and its velocity, we gain a deeper understanding of the universe's history, structure, and ultimate fate.
 
-### The Scientific Process
+## The Scientific Process
 
 As you embark on this project, it's essential to appreciate the philosophical underpinnings of scientific research. Science is not just a collection of facts but a methodical process of inquiry, exploration, and discovery. Scientists formulate hypotheses, conduct experiments, analyze data, and draw conclusions. Throughout this process, they remain open to new evidence and ready to refine their understanding.
 
-### The Importance of Evaluation
+## The Importance of Evaluation
 
 In scientific research, evaluating your results is crucial. This involves:
 
@@ -28,7 +26,7 @@ In scientific research, evaluating your results is crucial. This involves:
 - **Uncertainty and Error Analysis**: Quantifying the uncertainties in your data and understanding their sources.
 - **Critical Thinking**: Interpreting your results in the context of existing theories and evidence. Are your findings consistent with the established value of the Hubble constant? What anomalies or patterns do you observe?
 
-### A Broader Perspective
+## A Broader Perspective
 
 This project not only hones your technical skills in astronomy but also fosters a deeper appreciation for the scientific endeavor. The pursuit of knowledge is an ongoing process, filled with challenges and triumphs. Scientists continuously question, test, and refine their understanding of the natural world.
 
