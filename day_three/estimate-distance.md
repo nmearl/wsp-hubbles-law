@@ -1,4 +1,4 @@
-# How to use Angular Diameter to Calculate Distance
+# How to Use Angular Diameter to Calculate Distance
 
 Understanding the vastness of the universe involves determining distances to celestial objects, such as galaxies. One of the fundamental methods to achieve this is by using the concept of angular diameter. In this article, we will explore how to calculate distances to galaxies by measuring their angular diameter, assuming that these galaxies are the same size as our Milky Way.
 
