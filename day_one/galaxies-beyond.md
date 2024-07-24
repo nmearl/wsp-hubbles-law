@@ -22,9 +22,9 @@ Globular clusters are spherical collections of stars that orbit the center of a 
 
 Key characteristics of globular clusters include:
 
-Spherical Shape: Globular clusters have a roughly spherical shape due to their strong gravitational binding.
-Old Age: They consist of very old stars, primarily Population II stars, which are low in heavy elements compared to younger stars.
-High Density: Stars within globular clusters are densely packed, especially towards the core.
+- Spherical Shape: Globular clusters have a roughly spherical shape due to their strong gravitational binding.
+- Old Age: They consist of very old stars, primarily Population II stars, which are low in heavy elements compared to younger stars.
+- High Density: Stars within globular clusters are densely packed, especially towards the core.
 
 ```{figure} https://dq0hsqwjhea1.cloudfront.net/Globular-panel-mergers-Milky-Way-ST.jpg
 :name: glubar-cluster

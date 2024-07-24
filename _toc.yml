@@ -15,10 +15,11 @@ parts:
   - file: day_two/expanding-universe.md
   - file: day_two/celestial-coordinates.md
   - file: day_two/sdss-galaxies.md
-  - file: day_two/velocity_measure.ipynb
-#- caption: Day 3
-#  chapters:
-#  - file: day_three/galaxy_sizes.ipynb
+- caption: Day 3
+  chapters:
+  - file: day_three/velocity_measure.ipynb
+  - file: day_three/estimate-distance.md
+  - file: day_three/galaxy_sizes.ipynb
 - caption: Reference
   chapters:
   - file: reference/intro_to_colab_notebooks.ipynb

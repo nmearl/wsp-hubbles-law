@@ -35,17 +35,17 @@ Here's a slice of sky bisected by the celestial equator with hours of right asce
 Credit: Stellarium.
 ```
 
-### Why Degrees and Hour Angles?
+## Why Degrees and Hour Angles?
 
-#### Degrees
+### Degrees
 
 Degrees are a measure of angle. The use of degrees in astronomical coordinates allows for a precise and universally understood way of describing the position of an object in the sky. The celestial sphere, like any sphere, is divided into 360 degrees. This makes it straightforward to translate angular measurements into real positions.
 
-#### Hour Angles
+### Hour Angles
 
 Right Ascension is expressed in hour angles rather than degrees to simplify the conversion between time and the position of objects in the sky. Since the Earth rotates 360 degrees in approximately 24 hours, the sky appears to revolve around us at a rate of 15 degrees per hour. Expressing Right Ascension in hours, minutes, and seconds allows astronomers to easily calculate the position of celestial objects relative to the Earth's rotation and the observer's local time.
 
-### Importance of Astronomical Coordinates
+## Importance of Astronomical Coordinates
 
 The use of astronomical coordinates is vital for several reasons:
 
