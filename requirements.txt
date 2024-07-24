@@ -3,3 +3,5 @@ matplotlib
 numpy
 photutils
 astroquery
+bokeh
+ipywidgets
