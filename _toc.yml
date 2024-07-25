@@ -23,7 +23,7 @@ parts:
   - file: day_four/estimate-distance.md
   - file: day_four/galaxy_sizes.ipynb
   - file: day_four/hubble-intro.md
-#  - file: day_four/expansion_rate.ipynb
+  - file: day_four/expansion_rate.ipynb
 - caption: Reference
   chapters:
   - file: reference/intro_to_colab_notebooks.ipynb
