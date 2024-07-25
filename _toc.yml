@@ -18,8 +18,12 @@ parts:
 - caption: Day 3
   chapters:
   - file: day_three/velocity_measure.ipynb
-  - file: day_three/estimate-distance.md
-  - file: day_three/galaxy_sizes.ipynb
+- caption: Day 4
+  chapters:
+  - file: day_four/estimate-distance.md
+  - file: day_four/galaxy_sizes.ipynb
+  - file: day_four/hubble-intro.md
+#  - file: day_four/expansion_rate.ipynb
 - caption: Reference
   chapters:
   - file: reference/intro_to_colab_notebooks.ipynb
