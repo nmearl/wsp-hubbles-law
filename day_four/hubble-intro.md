@@ -1,6 +1,6 @@
 # Measuring the Hubble Constant
 
-The Hubble constant ($H_\circ$) is a crucial value in cosmology that describes the rate at which the universe is expanding. To measure $H_\circ$, we need to calculate the slope of the relationship between the radial velocities of galaxies and their distances from us. This process can be better understood through an analogy of runners in a race.
+The Hubble constant ($H_0$) is a crucial value in cosmology that describes the rate at which the universe is expanding. To measure $H_0$, we need to calculate the slope of the relationship between the radial velocities of galaxies and their distances from us. This process can be better understood through an analogy of runners in a race.
 
 ## The Analogy: Runners in a Race
 
@@ -31,7 +31,7 @@ Runners in a race. The distance the runner is from the starting line is related 
 Can you figure out how long ago the race started — the “age” of the race? (Assume each runner has maintained a consistent speed for the entire race).
 ```
 
-## Calculating the Slope: The Key to $H_\circ$
+## Calculating the Slope: The Key to $H_0$
 
 To quantify the relationship between distance and speed (or velocity), we calculate the slope of the line that best fits the data points. The slope of this line represents the rate at which speed increases with distance.
 
@@ -40,12 +40,12 @@ To quantify the relationship between distance and speed (or velocity), we calcul
   - For example, if the slope is 5 meters per second per meter, it means that for every meter a runner is farther from the starting line, they are moving 5 meters per second faster.
 
 - **Slope in the Universe:**
-  - In the universe, the slope of the line on our plot of radial velocity versus distance is the Hubble constant ($H_\circ$).
-  - This slope tells us how much faster a galaxy is moving away from us for each megaparsec (Mpc) of distance. If $H_\circ$ is 70 km/s/Mpc, it means that for every additional megaparsec of distance, the galaxy's velocity increases by 70 km/s.
+  - In the universe, the slope of the line on our plot of radial velocity versus distance is the Hubble constant ($H_0$).
+  - This slope tells us how much faster a galaxy is moving away from us for each megaparsec (Mpc) of distance. If $H_0$ is 70 km/s/Mpc, it means that for every additional megaparsec of distance, the galaxy's velocity increases by 70 km/s.
 
 ## Why the Slope Matters
 
-The slope is crucial because it directly gives us the Hubble constant, which has profound implications for our understanding of the universe. A precise measurement of $H_\circ$ helps us determine:
+The slope is crucial because it directly gives us the Hubble constant, which has profound implications for our understanding of the universe. A precise measurement of $H_0$ helps us determine:
 
 ```{dropdown} Given the relationship between velocity and distance, what can we infer about the universe?
 
@@ -57,7 +57,7 @@ By understanding the rate of expansion, we can estimate how long the universe ha
 :::
 
 :::{grid-item-card} The Fate of the Universe
-The value of $H_\circ$ can help predict the future behavior of the universe's expansion, whether it will continue to expand forever, slow down, or eventually collapse.
+The value of $H_0$ can help predict the future behavior of the universe's expansion, whether it will continue to expand forever, slow down, or eventually collapse.
 :::
 ::::
 ```

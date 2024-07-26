@@ -24,6 +24,12 @@ parts:
   - file: day_four/galaxy_sizes.ipynb
   - file: day_four/hubble-intro.md
   - file: day_four/expansion_rate.ipynb
+- caption: Day 5
+  chapters:
+  - file: day_five/expansion_rate.ipynb
+  - file: day_five/universe-age.md
+  - file: day_five/uncertainty-estimation.md
+  - file: day_five/wrap-up.md
 - caption: Reference
   chapters:
   - file: reference/intro_to_colab_notebooks.ipynb
